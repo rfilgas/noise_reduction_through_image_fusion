@@ -1,5 +1,5 @@
 # noise_reduction_through_image_fusion
-A computational technique to combine multiple image exposures that recovers lost color and detail without injecting editing preferences. The project leverages openCV, Scikit, and numpy to expedite computations and reduce complexity.
+A computational technique to combine multiple image exposures that recovers lost color and detail without injecting editing preferences. The project leverages OpenCV, Scikit, and numpy to expedite computations and reduce complexity.
 
 ## Comments
 - To run the program ensure you have two subdirectories: one named input, and another named output.
