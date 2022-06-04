@@ -14,4 +14,5 @@ The images included are from Googles HDR+ Burst Photography Dataset used in the 
 
 
 Creator: Ryan Filgas
-See included PDF file for project paper.
+
+See included PDF file for research paper.
